@@ -1,5 +1,8 @@
 # Model Card Template
 
+## Introduction
+This is a template for a model card. The original paper from which the contents were taken can be found [here](https://arxiv.org/abs/1810.03993). The goal of a model card is to document machine learning models in a standardized way. 
+
 ## Model Details
 - Description of the model
 - Person/Organization developing model
