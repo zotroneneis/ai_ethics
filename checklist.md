@@ -45,6 +45,4 @@
  - [ ] **F.2 Stakeholder feedback**: Do we have a system in place for monitoring stakeholder feedback? Have we identified who is responsible for this?
  - [ ] **F.3 Redress**: Have we discussed with our organization a plan for response if users are harmed by the results (e.g., how does the data science team evaluate these cases and update analysis and models to prevent future harm)?
  - [ ] **F.4 Roll back**: Is there a way to turn off or roll back the model in production if necessary?
- - [ ] **F.5 Unintended use**: Have we taken steps to identify and prevent unintended uses and abuse of the model and do we have a plan to monitor these once the model is deployed? Footer
-
-*Data Science Ethics Checklist generated with [deon](http://deon.drivendata.org).*
+ - [ ] **F.5 Unintended use**: Have we taken steps to identify and prevent unintended uses and abuse of the model and do we have a plan to monitor these once the model is deployed?
