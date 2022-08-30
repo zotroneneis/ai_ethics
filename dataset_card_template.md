@@ -1,7 +1,7 @@
 # Dataset card template
 
 ## Introduction
-This is a template for a dataset card. The original paper from which the contents were taken can be found [here](https://arxiv.org/abs/1803.09010). The goal of a dataset card is to document datasets in a standardized way. The questions below are detailed and might not all be answerable for each dataset. However, they can provide a guideline for documenting datasets.
+This is a template for a dataset card. The original paper from which the contents were taken can be found [here](https://arxiv.org/abs/1803.09010). The goal of a dataset card is to document datasets in a standardized way. The questions below are intended to be used as a starting point. Not all questions will be applicable to all datasets, and you will likely need to add, revise, or remove questions to better fit your needs.
 
 ## Motivation
 1. **For what purpose was the dataset created?** *(Was there a specific task in mind? Was there a specific gap that needed to be filled?)*
