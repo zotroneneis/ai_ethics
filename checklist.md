@@ -8,7 +8,7 @@
 
 ## B. Data Collection
  - [ ] **B.1 Informed consent**: If there are human subjects, have they given informed consent, where subjects affirmatively opt-in and have a clear understanding of the data uses to which they consent?
- - [ ] **B.2 Collection bias**: Have we considered sources of bias that could be introduced during data collection and survey design and taken steps to mitigate those?
+ - [ ] **B.2 Collection bias**: Have we considered sources of bias that could be introduced during data collection and survey design and taken steps to mitigate those? Take a look at existing tools like [Fairlearn](https://fairlearn.org) and the [AI Fairness Toolkit](https://github.com/Trusted-AI/AIF360).
  - [ ] **B.3 Limit PII exposure**: Have we considered ways to minimize exposure of personally identifiable information (PII) for example through anonymization or not collecting information that isn't relevant for analysis?
  - [ ] **B.4 Downstream bias mitigation**: Have we considered ways to enable testing downstream results for biased outcomes (e.g., collecting data on protected group status like race or gender)?
  - [ ] **B.5 Target population**: Is our data representative for the target population?
@@ -32,7 +32,7 @@
  - [ ] **E.2 Fairness across groups**: Have we tested model results for fairness with respect to different affected groups (e.g., tested for disparate error rates)? We should consider each group and combinations of groups separately (e.g. stakeholders, developers, race, gender, age)
  - [ ] **E.3 Metric selection**: Have we considered the effects of optimizing for our defined metrics and considered additional metrics?
  - [ ] **E.4 Explainability**: Can we explain in understandable terms a decision the model made in cases where a justification is needed?
- - [ ] **E.5 Bias in predictions**: Has the system been evaluated for potential biased outcomes?
+ - [ ] **E.5 Bias in predictions**: Has the system been evaluated for potential biased outcomes? Take a look at existing tools like [Fairlearn](https://fairlearn.org) and the [AI Fairness Toolkit](https://github.com/Trusted-AI/AIF360).
  - [ ] **E.6 Communicate bias**: Have we communicated the shortcomings, limitations, and biases of the model to relevant stakeholders in ways that can be generally understood?
  - [ ] **E.7 Model card**: Have we documented system characteristics and limitations in form of a [model card](model_card_template.md)?
  - [ ] **E.8 Legal requirements**: Have we considered legal oblications and policy considerations that apply to the model?
