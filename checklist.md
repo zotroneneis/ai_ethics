@@ -12,7 +12,7 @@
  - [ ] **B.3 Limit PII exposure**: Have we considered ways to minimize exposure of personally identifiable information (PII) for example through anonymization or not collecting information that isn't relevant for analysis?
  - [ ] **B.4 Downstream bias mitigation**: Have we considered ways to enable testing downstream results for biased outcomes (e.g., collecting data on protected group status like race or gender)?
  - [ ] **B.5 Target population**: Is our data representative for the target population?
- - [ ] **B.6 Dataset card**: Have we documented dataset characteristics and limitations in form of a dataset card?
+ - [ ] **B.6 Dataset card**: Have we documented dataset characteristics and limitations in form of a [dataset card](dataset_card_template.md)?
  - [ ] **B.7 Legal requirements**: Have we considered legal oblications and policy considerations that apply to the data?
 
 ## C. Data Storage
@@ -34,7 +34,7 @@
  - [ ] **E.4 Explainability**: Can we explain in understandable terms a decision the model made in cases where a justification is needed?
  - [ ] **E.5 Bias in predictions**: Has the system been evaluated for potential biased outcomes?
  - [ ] **E.6 Communicate bias**: Have we communicated the shortcomings, limitations, and biases of the model to relevant stakeholders in ways that can be generally understood?
- - [ ] **E.7 Model card**: Have we documented system characteristics and limitations in form of a model card?
+ - [ ] **E.7 Model card**: Have we documented system characteristics and limitations in form of a [model card](model_card_template.md)?
  - [ ] **E.8 Legal requirements**: Have we considered legal oblications and policy considerations that apply to the model?
  - [ ] **E.9 System security**: Was the system tested for potential security threats in any/all levels of its stack (e.g. software level, AI framework level, model level, etc.)?
 
