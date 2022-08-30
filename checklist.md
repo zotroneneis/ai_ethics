@@ -1,7 +1,5 @@
 # Data Science Ethics Checklist
 
-[![Deon badge](https://img.shields.io/badge/ethics%20checklist-deon-brightgreen.svg?style=popout-square)](http://deon.drivendata.org/)
-
 ## A. Project planning
  - [ ] **A.1 System existence**: Have we discussed whether the system should exist in the first place?
  - [ ] **A.2 Tool choices**: Have we discussed whether AI/ML is the right tool for the job?
